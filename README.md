@@ -1,0 +1,2 @@
+# cppcomp
+Competitive cpp
